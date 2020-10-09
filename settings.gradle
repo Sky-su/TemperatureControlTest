@@ -1,0 +1,3 @@
+include ':RFID3Library'
+include ':app'
+rootProject.name = "TemperatureControlTest"

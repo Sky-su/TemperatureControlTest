@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">温度标签测试</string>
+    <string name="no_reader">未连接到扫码枪</string>
+    <string name="no_start">启动失败，可能在充电</string>
+    <string name="no_storage">未找到外部存储</string>
+    <string name="nothing">无据可存</string>
+    <string name="ok">确定</string>
+    <string name="retry">RFID模块未连接？</string>
+    <string name="save">清空</string>
+    <string name="start">开始</string>
+    <string name="stop">停止</string>
+    <string name="temperature">温度</string>
+    <string name="connecting">尝试连接到扫描枪</string>
+    <string name="cancel">取消</string>
+    <string name="checklist">盘点单</string>
+    <string name="err_title">错误</string>
+</resources>
